@@ -1,0 +1,25 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#0A0A0A" stroke="#39FF14" stroke-width="3"/>
+  
+  <!-- S and Z forming body silhouette -->
+  <path d="M70 60 Q85 60 85 75 Q85 85 70 90 L60 95 Q45 100 45 115 Q45 130 60 130 L75 130" 
+        stroke="#39FF14" 
+        stroke-width="8" 
+        stroke-linecap="round" 
+        fill="none"/>
+  
+  <path d="M125 70 L155 70 L125 110 L155 110" 
+        stroke="#39FF14" 
+        stroke-width="8" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        fill="none"/>
+  
+  <!-- Energy flow dots -->
+  <circle cx="100" cy="50" r="4" fill="#39FF14"/>
+  <circle cx="100" cy="150" r="4" fill="#39FF14"/>
+  
+  <!-- Text -->
+  <text x="100" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">SHAPEZONE</text>
+</svg>
